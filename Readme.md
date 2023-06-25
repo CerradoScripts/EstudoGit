@@ -1,9 +1,10 @@
-Conceitos básicos
+Conceitos básicos:
 
-branch
+branch - ramificação da branch main. branch da tarefa A, branch da funcionalida X, branch da tela 1
+commit - salva as alterações no branch, nova versão.
+merge - junção da sua branch com outra branch, ex: main
 
 Download do git
-
 
 ** 	Nomenclarutura master tem cido alterada para main 
 	git branch -M "main"
