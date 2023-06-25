@@ -5,6 +5,7 @@ commit - Salva as alterações no branch, nova versão.
 merge - Junção da sua branch com outra branch, ex: main
 remote - Cria uma conexão da pasta local com o repositorio - apenas na primeira vez
 push - Joga o commit local para o repositório do Github
+pull - Puxa o que está no repositório do Github para a pasta local
 
 Download do git
 
