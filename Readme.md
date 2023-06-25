@@ -7,6 +7,8 @@ remote	--> Cria uma conexão da pasta local com o repositorio - apenas na primei
 push	--> Joga o commit local para o repositório do Github
 pull-	--> Puxa o que está no repositório do Github para a pasta local
 
+Rafaella: https://www.youtube.com/watch?v=UBAX-13g8OM
+
 Fazer download do git: https://git-scm.com/downloads
 
 Testa
